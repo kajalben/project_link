@@ -1,0 +1,94 @@
+HTML
+Mozilla Developer Network, best web dev documentation out there: https://developer.mozilla.org/en-US/
+Structure of an http message: https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages
+Structuring correctly your HTML file: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
+HTML5 Boilerplate to kickstart a project with best practices quickly: https://html5boilerplate.com/
+Validate your HTML markup: https://validator.w3.org/
+Don't like writing tables in HTML? Neither do I ^^ So I u usually use a table generator: https://www.tablesgenerator.com/html_tables#
+Input tags have got lots of possible type attribute values: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+Check how well an HTML element (or file format, CSS, JS...) is supported by which browser: https://caniuse.com/
+
+CSS
+Specificity in CSS: https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+CSS selectors: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Selectors
+Specificity visualized thru a comic: https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+Block level elements: https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements
+Inline level elements: https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
+CSS Flow Layout: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout
+All about floats: https://css-tricks.com/all-about-floats/
+Floats and Clearfix: https://css-tricks.com/clearfix-a-lesson-in-web-development-evolution/
+The DRY principle: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+The Separation of Concerns principle: https://en.wikipedia.org/wiki/Separation_of_concerns
+The KISS principle: https://en.wikipedia.org/wiki/KISS_principle
+Google Fonts: https://fonts.google.com/
+Tips for writing better CSS: https://www.freecodecamp.org/news/7-important-tips-for-writing-better-css/
+How to style forms properly: https://blog.logrocket.com/how-to-style-forms-with-css-a-beginners-guide/
+Bonus: HTML/CSS crash course: https://scrimba.com/learn/htmlcss
+
+
+Guys, here's a list of VSCode extensions that I would like to recommend for this first week. I'll share more as we go along based on what we study. These will make your life easier, believe me!
+
+Name: Bracket Pair Colorizer
+Description: A customizable extension for colorizing matching brackets
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+
+Name: Color Highlight
+Description: Highlight web colors in your editor
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
+
+Name: CSS Peek
+Description: Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
+
+Name: indent-rainbow
+Description: Makes indentation easier to read
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
+
+Name: Live Share
+Description: Real-time collaborative development from the comfort of your favorite tools.
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
+
+Name: Live Server
+Description: Launch a development local Server with live reload feature for static & dynamic pages
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+Name: Prettier - Code formatter
+Description: Code formatter using prettier
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+Sent you guys the weekly project instructions for the Cookbook!
+@January 4th 2021 Hey guys, here are some links about what we talked about today:
+https://unsplash.com/ => For free re-usable images for your cookbook
+https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi => Chrome extension to outline each element to better see their placement on the page
+https://www.codecademy.com/content-items/73ce848773660b8f73086a073113c3fe => How to use the Chrome Dev Tools?
+https://www.codecademy.com/content-items/8e57b181e3c4a62b70476bd76ab11624 => Chrome DevTools video intro!
+https://getbootstrap.com/ => Bootstrap official documentation
+https://www.codecademy.com/learn/learn-bootstrap => So you guys want to learn bootstrap; there's a codecademy course for that!
+https://www.youtube.com/watch?v=7g8Gg2QVdeU => Good intro video about bootstrap; more follow if you wanna dive deeper
+https://trello.com/ => To whip up a Kanban board quickly to track your issues as you go along
+
+
+
+A correction for the Tajam CSS exercise!
+- Live version: https://myelectricsheep.github.io/CSS-Tajam/
+- Code: https://github.com/MyElectricSheep/CSS-Tajam
+Parts of the layout redone using CSS grid instead of FlexBox to give you an idea of the difference:
+Contact section: https://codesandbox.io/s/grid-layout-tajam-contact-whyw4
+Expertise section: https://codesandbox.io/s/grid-layout-tajam-expertise-8m0qw
+Another correction, this time using Bootstrap all the way:
+https://github.com/sklalaludek/Tajam or https://github.com/Fotoz/tajam
+
+
+wireFrame
+https://wireframe.cc/
+https://www.mockflow.com/
+https://excalidraw.com/
+
+
+ color palettes pickers
+ 
+ - https://coolors.co/
+- http://colormind.io/
+- https://mycolor.space/
+- https://paletton.com/
+https://color.adobe.com/explore
