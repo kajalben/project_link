@@ -92,3 +92,12 @@ https://excalidraw.com/
 - https://mycolor.space/
 - https://paletton.com/
 https://color.adobe.com/explore
+
+//Javascript DOM
+- Async or Defer when loading a script ? https://flaviocopes.com/javascript-async-defer/ + https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html#script
+- Locating DOM elements using selectors: https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors
+- Difference between innerText and textContent: https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent#Differences_from_innerText + https://dev.to/developertharun/javascript-dom-part-4-innerhtml-vs-innertext-vs-textcontent-video-article-1b90
+- The classList property to add/remove/toggle classes on elements: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
+- Difference between innerHTML += and insertAdjacentHTML when inserting a new node in the DOM: https://dev.to/jeannienguyen/insertadjacenthtml-vs-innerhtml-4epd
+- Your new go-to reference: the Event page of MDN: https://developer.mozilla.org/en-US/docs/Web/API/Event + List of possible element events: https://developer.mozilla.org/en-US/docs/Web/API/Element#Events
+- Difference between HTMLCollection and NodeList: https://dev.to/jharteaga/difference-between-htmlcollection-and-nodelist-25bp
