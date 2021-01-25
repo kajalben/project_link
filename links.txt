@@ -101,3 +101,9 @@ https://color.adobe.com/explore
 - Difference between innerHTML += and insertAdjacentHTML when inserting a new node in the DOM: https://dev.to/jeannienguyen/insertadjacenthtml-vs-innerhtml-4epd
 - Your new go-to reference: the Event page of MDN: https://developer.mozilla.org/en-US/docs/Web/API/Event + List of possible element events: https://developer.mozilla.org/en-US/docs/Web/API/Element#Events
 - Difference between HTMLCollection and NodeList: https://dev.to/jharteaga/difference-between-htmlcollection-and-nodelist-25bp
+
+
+
+RegEXP::::::::
+ Scrimba tutorial: https://scrimba.com/learn/regularexpressions
+ test out your regexes: https://regexr.com/
