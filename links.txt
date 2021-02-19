@@ -123,6 +123,7 @@ React.js :::: Npm packeg
 Animation : https://www.npmjs.com/package/framer-motion
 create image from Dom element :https://www.npmjs.com/package/dom-to-image
 google map :: https://react-leaflet.js.org/
+react-draggable  ::: https://www.npmjs.com/package/react-draggable
 
 Interview LInk
 React ==> https://medium.com/@stevenjinyi/study-sheet-for-react-interview-questions-2020-2fe25b8fa316
