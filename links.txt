@@ -127,3 +127,18 @@ react-draggable  ::: https://www.npmjs.com/package/react-draggable
 
 Interview LInk
 React ==> https://medium.com/@stevenjinyi/study-sheet-for-react-interview-questions-2020-2fe25b8fa316
+
+NodeJs
+ Your bedside reading for the next weeks; the NodeJS documentation: https://nodejs.org/dist/latest-v14.x/docs/api/
+- Install Node: https://nodejs.org/en/download/
+- NodeJS releases calendar: https://nodejs.org/en/about/releases/ you should (preferably) be using an LTS version (eg: v14.15.5 at the moment)
+- NodeJS JavaScript features support: https://node.green/
+- Node Version Manager (NVM) to install and use multiple versions of Node: https://github.com/nvm-sh/nvm + https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/
+- Beginner's Guide to Using NPM: https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
+- Creating a .gitignore file easily: https://www.gitignore.io/
+- Package-lock.json? https://medium.com/coinmonks/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8 
+- Asynchronous what? https://nodejs.org/en/knowledge/getting-started/control-flow/how-to-write-asynchronous-code/
+- Avoiding callback hell: http://callbackhell.com/ (though Node now proposes a promisified version of most of their APIs now)
+- Rendering HTML from a vanilla NodeJS server: https://vegibit.com/render-html-in-node-js/
+- What is this UTF8 encoding anyways? https://blog.hubspot.com/website/what-is-utf-8
+- Using import instead of require (though we'll continue to use require through ALL lectures / exercises); but it's possible: https://nodejs.org/docs/latest-v13.x/api/esm.html#esm_enabling
